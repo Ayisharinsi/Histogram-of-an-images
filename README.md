@@ -33,7 +33,7 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 
-image = cv2.imread('Qn4.jpg')
+image = cv2.imread('Qn4.png')
 
 gray_image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 
